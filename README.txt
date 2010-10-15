@@ -32,7 +32,7 @@ for use in the online help system of Side Effects Software's 3D animation
 software Houdini. Side Effects Software Inc. graciously agreed to open-source
 the code.
 
-The original whoosh 0.3.18 is compatible only with python 2.5+. This whoosh version adapted for python 2.4 by Aidas Bendoraitis to work with django-haystack, as Haystack 1.0 is not yet compatible with whoosh 1.1.0.
+The original whoosh 0.3.18 is compatible only with python 2.5+. This whoosh version adapted for python 2.4 by Aidas Bendoraitis to work with django-haystack (Haystack 1.0 is not yet compatible with whoosh 1.1.0).
 
 This software is licensed under the terms of the Apache License version 2.
 See LICENSE.txt for information.
